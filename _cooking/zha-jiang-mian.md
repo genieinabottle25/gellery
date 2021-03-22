@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: cooking
 name: Homemade ZhaJiang noodles, with sliced cucumber
 resource_date: 2020-12-10
 description: Home recipe:Instead of pure ground pork based soy-bean paste, I used ground beef and added eggs for light taste, sliced cucumber added extra crunchy texture and fresh taste.
