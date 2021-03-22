@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: cooking
 name: 麻酱宽粉 wide tomato vermicelli with sesame sauce
 resource_date: 2021-02-12
 description: 麻酱宽粉 wide tomato vermicelli with sesame sauce, served with cucumber, sourdough, and sesame

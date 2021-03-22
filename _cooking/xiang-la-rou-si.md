@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: cooking
 name: toast, stir pork and coriander with hot chili, milkis
 resource_date: 2020-12-02
 description: Home recipe-instead of rice, I chose toast which has less calories and cooking minutes.  stir pork and coriander with hot chili (family secret recipe), my favorite beverage:milkis.

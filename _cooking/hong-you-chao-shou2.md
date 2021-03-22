@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: cooking
 name: 红油抄手 Hong You Chao Shou2
 resource_date: 2021-02-07
 description: Boiled dumplings with spicy soup(dressing), served with boiled spinach

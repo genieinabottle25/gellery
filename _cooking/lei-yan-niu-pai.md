@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: cooking
 name: Pan fried rib eye steak with garlic butter
 resource_date: 2020-11-23
 description: Pan fried rib eye steak with garlic butter, served with mushroom saute, fried garlic, and strawberry milk.

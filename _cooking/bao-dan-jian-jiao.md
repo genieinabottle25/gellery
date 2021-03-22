@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: cooking
 name: Fry Korean-style dumpling with eggs
 resource_date: 2020-12-23
 description: Home recipe:Fry Korean-style dumpling with eggs, served with pickles and baked sweet potatoes.

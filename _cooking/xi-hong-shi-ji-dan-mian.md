@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: cooking
 name: soba noodles with scrambled eggs and tomatoes
 resource_date: 2020-10-03
 description: a light brunch:Chinese style scrambled eggs and tomatoes with a lot of pepper, soba noodles with less calories.

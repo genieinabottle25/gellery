@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: cooking
 name: 골뱅이무침 clam with hot sauce
 resource_date: 2020-12-21
 description: traditional Korean cold dish, clam with hot sauce and pepper, served with vermicelli

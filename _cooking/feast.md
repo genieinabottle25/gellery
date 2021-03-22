@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: cooking
 name: feast in spring festival
 resource_date: 2021-02-12
 description: feast to celebrate Spring Festival

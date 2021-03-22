@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: cooking
 name: 红油抄手 Hong You Chao Shou
 resource_date: 2021-02-23
 description: Chinese food in SiChuan Province:boiled dumplings with spicy soup(dressing)

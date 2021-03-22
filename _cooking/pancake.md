@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: cooking
 name: Christmas Tree Style Pancake
 resource_date: 2020-12-25
 description: Christmas Tree Style Pancake made in Christmas morning. Banana flavored pancake with yogurt, blueberry, and strawberry, Served with maple syrup.

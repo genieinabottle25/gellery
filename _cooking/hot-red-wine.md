@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: cooking
 name: hot red wine
 resource_date: 2020-12-26
 description: Chritmas treat:red hot wine with mixed berries and citrus

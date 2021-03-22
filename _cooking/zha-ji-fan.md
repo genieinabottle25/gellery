@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: cooking
 name: original recipe chicken rice
 resource_date: 2021-02-11
 description: self created dish, cooking rice with original recipe chicken from KFC, celery, soy sauce and mixed herbs.

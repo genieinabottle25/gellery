@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: cooking
 name: 닭볶음탕 spicy chicken stew
 resource_date: 2021-01-29
 description: Traditional Korean Dish, spicy chicken stew with mix vegetables and herbs.

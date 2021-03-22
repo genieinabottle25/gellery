@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: cooking
 name: 大盘鸡拌面 Large plate chicken noodles
 resource_date: 2020-12-24
 description: traditional XinJiang dish in China, chicken with carrots, potatoes and other vegetables, served with wide noodles.

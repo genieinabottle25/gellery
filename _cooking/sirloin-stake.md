@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: cooking
 name: Sirloin Steak
 resource_date: 2021-02-19
 description: Sirloin Steak, with red wine sauce, fried potato, saute mushroom

@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: cooking
 name: 떡뽁이 spicy rice cake and fish cake
 resource_date: 2021-02-12
 description: traditional Korean dish, spicy rice cake and fish cake with boiled eggs and cabbage
