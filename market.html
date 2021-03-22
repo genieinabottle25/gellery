@@ -1,0 +1,45 @@
+---
+title: Market Being Quiet
+layout: default
+---
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Imbue:wght@400;700&family=Open+Sans&display=swap" rel="stylesheet">
+
+<section id='intro'>
+    <div class="card">
+      <img class="card-img" src="/assets/images/market/wall-painting-in-um.JPG" alt="Card image" style="width: 100%;height: 80vh;">
+      <div class="card-img-overlay" style="padding: 100px 0;"> 
+        <p class="text-white text-center font-weight-bold" style="font-size: 50px; margin-top: 13%; font-family:fantasy;">Market Being Quiet</p>
+      </div>
+    </div>
+  </section>
+  
+<section id='text'>
+    <div class='container'>
+        <div class='row'>
+            <div class='col-md-10 offset-md-1' style='margin-top: 3vh; margin-bottom: 3vh;font-size: larger;'>
+                <p style="text-align:justify; font-family:cursive" >
+                    Many markets in London had shut down during the quarantine, this folder showed the market with no or less visitors.
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id='market'>
+    <div class='container'>
+      <div class='row'>
+        {% for market in site.market %}
+            <div class='col-sm'>
+              <a href='{{ market.url }}' style='color: black;'>
+                <img src='/assets/images/market/{{ market.image_url}}' width='300px' height='200px'>
+                <p>{{ market.name }}</p>
+              </a>
+            </div>
+        {% endfor %}
+      </div>
+    </div>
+  </section>

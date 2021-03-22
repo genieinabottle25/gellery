@@ -1,0 +1,42 @@
+---
+layout: none
+---
+
+[
+  {% for cooking in site.data.cooking %}
+    {
+      "name"    : "{{ cooking.name | escape }}",
+      "url"     : "{{ cooking.url }}"
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %},
+  {% for market in site.data.market %}
+    {
+      "name"   : "{{ market.name | escape }}",
+      "url": "{{ market.url }}"
+    }{% unless forloop.last %},{% endunless %}
+  {% endfor %},
+  {% for ocean in site.data.ocean %}
+    {
+      "name"   : "{{ ocean.name | escape }}",
+      "url": "{{ ocean.url }}"
+    }{% unless forloop.last %},{% endunless %}
+  {% endfor %},
+  {% for park in site.data.park %}
+    {
+      "name"   : "{{ park.name | escape }}",
+      "url": "{{ park.url }}"
+    }{% unless forloop.last %},{% endunless %}
+  {% endfor %},
+  {% for posting in site.data.posting %}
+  {
+    "name"   : "{{ posting.name | escape }}",
+    "url": "{{ posting.url }}"
+  }{% unless forloop.last %},{% endunless %}
+  {% endfor %},
+  {% for street in site.data.street %}
+  {
+    "name"   : "{{ street.name | escape }}",
+    "url": "{{ street.url }}"
+  }{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]
