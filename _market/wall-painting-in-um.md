@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: market
 name: Wall painting in Up Market
 resource_date: 2021-02-21
 description: an interesting wall market in Up-Market

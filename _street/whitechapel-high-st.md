@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: street
 name: whitechapel high st
 resource_date: 2021-02-21
 description: most shops in whitechapel high st was shut down
