@@ -1,0 +1,65 @@
+<header>
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+      <a class="navbar-brand" href="#">Genie Cam</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+              aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" >
+        <span class="navbar-toggler-icon"></span>
+      </button>
+  
+  
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item active">
+  
+            <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+  
+          <li class="nav-item">
+            <a class="nav-link" href="/about/">about</a>
+          </li>
+
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
+               aria-haspopup="true" aria-expanded="false">
+              Quarantine Memory
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item" href="">Cooking During Quarantine</a>
+              <a class="dropdown-item" href="">Market being quiet</a>
+              <a class="dropdown-item" href="">Ocean as a vision</a>
+              <a class="dropdown-item" href="">Park without bark</a>
+              <a class="dropdown-item" href="">Posting for wellbeing</a>
+              <a class="dropdown-item" href="">Streetview Got the Feel</a>
+  
+        </ul>
+        <!--<form class="form-inline my-2 my-lg-0">
+          <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+          <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+        </form>-->
+        <div id="search-container">
+          <input type="text" id="search-input" placeholder="search..." />
+          <ol id="results-container"></ol>
+        </div>
+        
+        <!-- import script -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/simple-jekyll-search/1.9.1/simple-jekyll-search.min.js"></script>
+        
+        <!-- Execute script -->
+        <script>
+          window.simpleJekyllSearch = new SimpleJekyllSearch({
+            searchInput: document.getElementById('search-input'),
+            resultsContainer: document.getElementById('results-container'),
+            json: '/search.json',
+            searchResultTemplate: '<li><a href="{url}" title="{desc}">{name}</a></li>', // 文章列表模板
+            noResultsText: 'No articles found', // prompt
+            limit: 20, // the maximum number of articles
+            fuzzy: false, // Fuzzy match or not
+          })
+        </script>
+      </div>
+    </nav>
+  
+  
+  
+       
+  
