@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: market
 name: square in Apple Market
 resource_date: 2021-02-21
 description: square in Apple Market with less people than usual. people were hanging around while following the social distancing rule

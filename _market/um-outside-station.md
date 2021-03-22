@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: market
 name: Up Market Outside Station
 resource_date: 2021-02-21
 description: 

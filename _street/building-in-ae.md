@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: street
 name: building in aldgate east
 resource_date: 2021-02-21
 description: sunshine suddenly showed up when passing this building in aldgate east

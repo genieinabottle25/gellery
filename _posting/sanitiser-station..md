@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: posting
 name: sanitiser station post outside the shop
 resource_date: 2021-02-21
 description: many shops added the sanitiser station post on the window

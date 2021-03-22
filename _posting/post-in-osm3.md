@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: posting
 name: Post in Old Spitalfields Market3
 resource_date: 2021-02-23
 description: post outside the Old Spitalfields Market, warning people to stay at home

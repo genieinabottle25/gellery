@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: market
 name: Old Spitalfields Market entrance
 resource_date: 2021-02-21
 description: the entrance of Old Spitalfields Market, it was closed

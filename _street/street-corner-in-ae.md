@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: street
 name: street corner in algate east
 resource_date: 2021-02-21
 description: many creative wall paintings were shown in this area

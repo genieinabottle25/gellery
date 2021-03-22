@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: posting
 name: Post in Old Spitalfields Market
 resource_date: 2021-02-21
 description: all entrances of Old Spitalfields Market has closed except one small entrance to control the amount of visitors entering the market

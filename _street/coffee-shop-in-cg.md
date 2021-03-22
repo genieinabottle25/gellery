@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: street
 name: coffee shop in Covent Garden
 resource_date: 2021-02-21
 description: although it was not allowed to dine in the restaurant, people were waiting outside for take out in Covent Garden

@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: street
 name: shops in algate east
 resource_date: 2021-02-21
 description: many shops were closed during quarantine, and artists painted their artworks on the wall which decorated the street

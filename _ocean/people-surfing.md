@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: ocean
 name: people surfing on the sea
 resource_date: 2021-01-31
 description: In brighton, people were still surfing even though it was raining

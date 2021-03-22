@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: posting
 name: post in Apple Market
 resource_date: 2021-02-21
 description: sign post in Apple Market, Covent Garden. Warning people about social distancing

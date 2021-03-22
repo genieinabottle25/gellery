@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: park
 name: lake in Richmond Park
 resource_date: 2021-01-18
 description: lake in Richmond Park, with less visitors, more animals were gathered near the lake

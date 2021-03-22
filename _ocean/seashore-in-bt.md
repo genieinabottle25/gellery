@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: ocean
 name: seashore in brighton
 resource_date: 2021-01-31
 description: seashore in brighton, there were less people who visit the white cliff

@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: street
 name: A Japanese Restaurant
 resource_date: 2021-02-21
 description: A Japanese Restaurant was shut down due to quarantine

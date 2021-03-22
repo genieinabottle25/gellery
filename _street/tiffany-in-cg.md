@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: street
 name: Tiffany in Covent Garden
 resource_date: 2021-02-21
 description: Tiffany is closed during quarantine and they took away all their products and left an empty room

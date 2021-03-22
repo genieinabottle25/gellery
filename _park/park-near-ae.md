@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: park
 name: park near algate east
 resource_date: 2021-02-21
 description: park near algate east, people were hanging their and waiting for somenoe

@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: market
 name: Food station in Up Market
 resource_date: 2021-02-21
 description: few food station that remain open in Up Market, there were no much visitors but the owners tension were high.

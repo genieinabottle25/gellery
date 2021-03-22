@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: street
 name: covent garden station
 resource_date: 2021-02-21
 description: all the entrance of covent garden station were closed expect a small one

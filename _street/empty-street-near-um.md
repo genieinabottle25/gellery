@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: street
 name: Empty street near up market
 resource_date: 2021-02-21
 description: there were little people in the market

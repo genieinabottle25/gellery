@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: market
 name: food station in Old Spitalfields Market
 resource_date: 2021-02-21
 description: food station in Old Spitalfields Market, there were less visitors than usual

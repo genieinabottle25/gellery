@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: street
 name: building with blank advertisement slot
 resource_date: 2021-02-21
 description: the advertisement slot on this market was empty 

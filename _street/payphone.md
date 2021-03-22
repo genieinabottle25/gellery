@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: street
 name: payphone
 resource_date: 2021-02-23
 description: a telephone booth near aldgate east station

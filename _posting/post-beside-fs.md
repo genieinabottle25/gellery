@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: posting
 name: Post beside a food station
 resource_date: 2021-02-21
 description: Post beside a food station in Up Market, giving information of keep safe during quarantine

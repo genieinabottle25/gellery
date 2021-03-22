@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: market
 name: Up Market building
 resource_date: 2021-02-21
 description: the market inside the building has been shut down, with no food stations or booth

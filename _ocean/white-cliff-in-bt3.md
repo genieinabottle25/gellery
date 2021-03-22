@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: ocean
 name: white cliff in Brighton3
 resource_date: 2021-01-31
 description: white cliff in Brighton, days were dark and rainy but there are still some visitors

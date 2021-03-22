@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: market
 name: empty Apple Market
 resource_date: 2021-02-21
 description: Apple Market with no stations and visitors

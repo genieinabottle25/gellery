@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: posting
 name: Wall painting in Up Market2
 resource_date: 2021-02-21
 description: wall painting about anti-racism had great impact on me

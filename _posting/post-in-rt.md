@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: posting
 name: post in a chicken restaurant
 resource_date: 2021-02-21
 description: chicken restaurant which only allows take out food, and their poster.

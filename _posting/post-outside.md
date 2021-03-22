@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: posting
 name: Post outside the shop window
 resource_date: 2021-02-21
 description: As London upgraded to tier-4, many shops were closed and even did not upload the closing time because of the extended quarantine time

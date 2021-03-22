@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: posting
 name: Post in Old Spitalfields Market2
 resource_date: 2021-02-21
 description: Post in Old Spitalfields Market, people were not allowed to eat in the market, they could just take out.

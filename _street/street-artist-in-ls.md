@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: street
 name: street artist in Leake St
 resource_date: 2021-01-24
 description: street artist was painting new artworks on the wall in Leake St

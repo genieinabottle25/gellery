@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: park
 name: creatures in Richmond Park
 resource_date: 2021-01-18
 description: there are many ducks and seabirds in Richmond Park

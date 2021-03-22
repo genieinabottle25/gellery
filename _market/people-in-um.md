@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: market
 name: People in Up Market
 resource_date: 2021-02-21
 description: there are few people ordering food and have little conversation with their companion, following the social distancing rules.

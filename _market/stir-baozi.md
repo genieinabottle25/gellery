@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: market
 name: Stir Baozi from an Asian Food Station
 resource_date: 2021-02-21
 description: Stir Baozi from an Asian food station got the most attention from visitors, the owner is a Chinese women who said that this food station did not open until several days ago.

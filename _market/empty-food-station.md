@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: market
 name: empty food station in Apple Market
 resource_date: 2021-02-21
 description: food station in Apple Market was shut down

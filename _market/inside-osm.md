@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: market
 name: inside Old Spitalfields Market
 resource_date: 2021-02-21
 description: shops were all shut down in the Old Spitalfields Market

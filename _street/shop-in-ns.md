@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: street
 name: shops in Neal St
 resource_date: 2021-02-21
 description: Neal St, shops were closed but still beautiful

@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: posting
 name: Reminder from one shop
 resource_date: 2021-02-21
 description: there are still some shops open during quarantine, but most people do not aware of it and missed them, so owners would place a post to remind people that they are still open
