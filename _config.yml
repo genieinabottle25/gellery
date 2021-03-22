@@ -55,3 +55,13 @@ plugins:
 collections:
   cooking:
     output: true
+  market:
+    output: true
+  ocean:
+    output: true
+  park:
+    output: true
+  posting:
+    output: true
+  street:
+    output: true
