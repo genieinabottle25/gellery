@@ -4,5 +4,4 @@
 
 layout: home
 title: Genie Cam
-permalink: /index/
 ---
