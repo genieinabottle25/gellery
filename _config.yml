@@ -23,7 +23,7 @@ email: ling.1.jin@kcl.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
   This is my gallery, WElCOME!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "geniegallery.netlify.app" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://geniecam.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  genieinabottle25
 
